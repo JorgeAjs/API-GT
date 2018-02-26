@@ -1,0 +1,2 @@
+USERNAME - Nombre de usuario
+ACTIVATIONLINK - Link de activación cuenta de usuario

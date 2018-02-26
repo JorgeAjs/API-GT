@@ -1,0 +1,8 @@
+---
+applications:
+ - name: apigt1
+   random-route: true
+   memory: 512M
+   command: node index.js
+   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
+

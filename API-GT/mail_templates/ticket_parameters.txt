@@ -1,0 +1,15 @@
+DATE - fecha del evento
+TITLE - nombre del evento
+SEAT - silla
+NAME - nombre del usuario
+VENUE - lugar del evento
+ADDRESS - dirección del evento
+CITY - ciudad
+MAINARTIST - artista principal
+OTHERARTISTS - artistans invitados
+ORGANIZER - organizador del evento
+NIT - nit
+SECTION - localidad
+EVENTPRICE - precio sin costos administrativos
+ADMINCOSTS - costos administrativos
+TOTAL - total
